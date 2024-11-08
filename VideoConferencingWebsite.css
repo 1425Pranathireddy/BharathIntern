@@ -7,11 +7,11 @@ body{
 
     background-image: url('VideoConference.png');
     background-size: cover;
-/*     background: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet, red);
-    color: #fff; */
-/*     height:900px;
+    background: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet, red);
+    color: #fff; 
+    height:900px;
     width: 100%;
-    background-size: contain; */
+    background-size: contain;
     background-repeat: no-repeat;
     font-family: Arial, sans-serif;
   }
