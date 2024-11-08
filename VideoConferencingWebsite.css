@@ -1,23 +1,10 @@
 body{
-/*     display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    min-height: 100vh; */
-
-    background-image: url('VideoConference.png');
-/*     background-size: cover; */
     background: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet, red);
-/*     color: #fff;  */
     height:900px;
     width: 100%;
     background-size: contain;
-/*     background-repeat: no-repeat; */
     font-family: Arial, sans-serif;
   }
-
-  
-
   h2 {
     text-align: center;
   }
